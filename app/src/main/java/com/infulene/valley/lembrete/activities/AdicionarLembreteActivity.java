@@ -114,7 +114,7 @@ public class AdicionarLembreteActivity extends AppCompatActivity {
                 timePicker = (TimePicker) dialogViewHora.findViewById(R.id.timePicker);
 
                 builder.setPositiveButton("Aplicar", new DialogInterface.OnClickListener() {
-                    @TargetApi(Build.VERSION_CODES.M)
+
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
 
@@ -122,10 +122,21 @@ public class AdicionarLembreteActivity extends AppCompatActivity {
 
                         calendar = Calendar.getInstance();
 
-                        calendar.set(Calendar.HOUR_OF_DAY, timePicker.getHour());
-                        calendar.set(Calendar.MINUTE, timePicker.getMinute());
 
-                        hora_from_time_picker = DataUtils.horaTexto(timePicker.getHour(), timePicker.getMinute());
+                        if (Build.VERSION.SDK_INT >= 23 ){
+
+                            calendar.set(Calendar.HOUR_OF_DAY, timePicker.getHour());
+                            calendar.set(Calendar.MINUTE, timePicker.getMinute());
+                            hora_from_time_picker = DataUtils.horaTexto(timePicker.getHour(), timePicker.getMinute());
+                        }
+//                            myTimePickerView.getHour();
+                        else{
+                            calendar.set(Calendar.HOUR_OF_DAY, timePicker.getCurrentHour());
+                            calendar.set(Calendar.MINUTE, timePicker.getCurrentMinute());
+                            hora_from_time_picker = DataUtils.horaTexto(timePicker.getCurrentHour(), timePicker.getCurrentMinute());
+                        }
+
+
                         mTextView_horas.setText(hora_from_time_picker);
 
                         intent_lembrete = new Intent(getApplicationContext(), Lembrete_Receiver.class);
