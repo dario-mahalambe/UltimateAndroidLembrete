@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.infulene.valley.lembrete.activities.AdicionarLembreteActivity">
+
+    <include
+        android:id="@+id/toolbar_add_lembrete"
+        layout="@layout/toolbar" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/bg_clocks" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            app:srcCompat="@drawable/ic_edit_black_24dp" />
+
+        <EditText
+            android:id="@+id/et_titulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:background="@android:color/transparent"
+            android:hint="Titulo"
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#E0e0e0" />
+
+
+    <LinearLayout
+        android:id="@+id/btn_hora"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:clickable="true"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            app:srcCompat="@drawable/ic_access_time_black_24dp" />
+
+        <TextView
+            android:id="@+id/tv_hora"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:hint="Hora"
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#E0e0e0" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#E0e0e0" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            app:srcCompat="@drawable/ic_content_paste_black_24dp" />
+
+        <EditText
+            android:id="@+id/et_detalhes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:background="@android:color/transparent"
+            android:hint="Detalhes"
+            android:textColor="@android:color/black" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#E0e0e0" />
+
+    <LinearLayout
+       android:layout_gravity="center_horizontal"
+        android:layout_marginTop="100dp"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <Button
+
+            android:textColor="@android:color/white"
+            android:background="@android:color/holo_red_light"
+            android:id="@+id/btn_remover"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Disalarm" />
+
+        <Button
+            android:layout_marginStart="8dp"
+            android:id="@+id/btn_gravar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginEnd="16dp"
+            android:layout_marginTop="6dp"
+            android:background="@color/colorPrimary"
+            android:text="Gravar"
+            android:textColor="@android:color/white" />
+
+        <Button
+
+
+
+
+            android:textColor="@android:color/white"
+            android:background="@android:color/holo_green_light"
+            android:id="@+id/btn_update"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Actualizar" />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

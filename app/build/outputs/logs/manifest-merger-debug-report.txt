@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:9:5-35:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\user\.android\build-cache\92c4dba01a0a6e378c6a77b27c56a2b86c85d1ee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\user\.android\build-cache\0839d776f322149b4ed139adf42cdec30eb084f0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\user\.android\build-cache\587e1509477fe43209f86f1cb84d425127c44c27\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\user\.android\build-cache\0beb505fffdc59cbf9292dbbce12cde8248cc7e5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\user\.android\build-cache\548901c015ef6f8f35154f99f6762f4900addad4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\user\.android\build-cache\0b710b94bc666500669fcd4bac84cdb6358367a5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\user\.android\build-cache\71a48f369c947f8e5fad6682b412122660cb41e6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\user\.android\build-cache\b89628cb80ed8ea0a18ae1eae0fe783243b8f816\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\user\.android\build-cache\d64476ccb1f9249059209b4527f52dfc1f1a8174\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\user\.android\build-cache\c035bd2c653c712d921757ff9fa4b8bfe9e6a3b9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\user\.android\build-cache\1d9ce4d10161e31bc6dcf74b553d1a5a7e9f1d40\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\user\.android\build-cache\8b3c028f0506b5b48ce6e61a85d65e32e1c6e7ed\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.android\build-cache\ab139bd8fade75d5070859223756c68ca615dc7b\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.infulene.valley.lembrete.activities.MainActivity
+ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:16:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.infulene.valley.lembrete.activities.AdicionarLembreteActivity
+ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:25:9-26:59
+	android:label
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:26:13-47
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:25:19-71
+receiver#com.infulene.valley.lembrete.backgroud_tasks.Lembrete_Receiver
+ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:28:9-70
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:28:19-68
+service#com.infulene.valley.lembrete.backgroud_tasks.LembreteService
+ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:32:9-34:38
+	android:enabled
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:34:13-35
+	android:name
+		ADDED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml:33:13-60
+uses-sdk
+INJECTED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\user\.android\build-cache\92c4dba01a0a6e378c6a77b27c56a2b86c85d1ee\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\user\.android\build-cache\0839d776f322149b4ed139adf42cdec30eb084f0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\user\.android\build-cache\587e1509477fe43209f86f1cb84d425127c44c27\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\user\.android\build-cache\0beb505fffdc59cbf9292dbbce12cde8248cc7e5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\user\.android\build-cache\548901c015ef6f8f35154f99f6762f4900addad4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\user\.android\build-cache\0b710b94bc666500669fcd4bac84cdb6358367a5\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\user\.android\build-cache\71a48f369c947f8e5fad6682b412122660cb41e6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\user\.android\build-cache\b89628cb80ed8ea0a18ae1eae0fe783243b8f816\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\user\.android\build-cache\d64476ccb1f9249059209b4527f52dfc1f1a8174\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\user\.android\build-cache\c035bd2c653c712d921757ff9fa4b8bfe9e6a3b9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\user\.android\build-cache\5f11753648fe10f95868d257c968c95182094242\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\user\.android\build-cache\1d9ce4d10161e31bc6dcf74b553d1a5a7e9f1d40\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\user\.android\build-cache\8b3c028f0506b5b48ce6e61a85d65e32e1c6e7ed\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\user\.android\build-cache\ab139bd8fade75d5070859223756c68ca615dc7b\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\user\.android\build-cache\92c4dba01a0a6e378c6a77b27c56a2b86c85d1ee\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Freelancer\Lembrete\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\user\.android\build-cache\92c4dba01a0a6e378c6a77b27c56a2b86c85d1ee\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\user\.android\build-cache\0839d776f322149b4ed139adf42cdec30eb084f0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\user\.android\build-cache\587e1509477fe43209f86f1cb84d425127c44c27\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\user\.android\build-cache\0beb505fffdc59cbf9292dbbce12cde8248cc7e5\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\user\.android\build-cache\548901c015ef6f8f35154f99f6762f4900addad4\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\user\.android\build-cache\0b710b94bc666500669fcd4bac84cdb6358367a5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\user\.android\build-cache\71a48f369c947f8e5fad6682b412122660cb41e6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\user\.android\build-cache\b89628cb80ed8ea0a18ae1eae0fe783243b8f816\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\user\.android\build-cache\d64476ccb1f9249059209b4527f52dfc1f1a8174\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\user\.android\build-cache\c035bd2c653c712d921757ff9fa4b8bfe9e6a3b9\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\user\.android\build-cache\5f11753648fe10f95868d257c968c95182094242\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\user\.android\build-cache\1d9ce4d10161e31bc6dcf74b553d1a5a7e9f1d40\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\user\.android\build-cache\8b3c028f0506b5b48ce6e61a85d65e32e1c6e7ed\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\user\.android\build-cache\92c4dba01a0a6e378c6a77b27c56a2b86c85d1ee\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\user\.android\build-cache\92c4dba01a0a6e378c6a77b27c56a2b86c85d1ee\output\AndroidManifest.xml:26:9-47

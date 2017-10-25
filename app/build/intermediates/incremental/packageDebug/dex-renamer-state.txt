@@ -1,0 +1,7 @@
+#Wed Oct 25 14:40:08 CAT 2017
+base.0=C\:\\Users\\user\\Desktop\\Freelancer\\Lembrete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a57c8119e94de7e4382e81348ebde71bcc2fe5f9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\user\\Desktop\\Freelancer\\Lembrete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c4639a39e6179a5d2f36110cec99764d37c255d8\\classes.dex
+base.1=C\:\\Users\\user\\Desktop\\Freelancer\\Lembrete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c4639a39e6179a5d2f36110cec99764d37c255d8
+file.0=C\:\\Users\\user\\Desktop\\Freelancer\\Lembrete\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a57c8119e94de7e4382e81348ebde71bcc2fe5f9\\classes.dex

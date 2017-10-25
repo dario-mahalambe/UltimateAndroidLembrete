@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Freelancer\\Lembrete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_photo_size_select_small_black_24dp.xml",
+        "source": "C:\\Users\\user\\Desktop\\Freelancer\\Lembrete\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_photo_size_select_small_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Freelancer\\Lembrete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_add_black_24dp.xml",
+        "source": "C:\\Users\\user\\Desktop\\Freelancer\\Lembrete\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Freelancer\\Lembrete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\92c4dba01a0a6e378c6a77b27c56a2b86c85d1ee\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Freelancer\\Lembrete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\92c4dba01a0a6e378c6a77b27c56a2b86c85d1ee\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Freelancer\\Lembrete\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_alarm_off_black_24dp.xml",
+        "source": "C:\\Users\\user\\Desktop\\Freelancer\\Lembrete\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_alarm_off_black_24dp.xml"
+    }
+]
